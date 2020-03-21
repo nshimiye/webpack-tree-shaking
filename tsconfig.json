@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+      "lib": [
+        "dom",
+        "es6"
+      ],
+      "moduleResolution": "node",
+      "module": "es2015",
+      "target": "es5",
+      "sourceMap": false,
+      "allowSyntheticDefaultImports": true,
+      "outDir": "tmp-js"
+    }
+  }
